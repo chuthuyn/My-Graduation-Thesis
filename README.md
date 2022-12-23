@@ -5,7 +5,7 @@ I used Python to do both parts in this thesis (such as desciptive analysis, data
 \
 How to run my code? some tutorials below:
 1. Download jupyter-notebook at: https://jupyter.org/install
-2. Install all libraries needed with syntaxes below:
+2. Install all libraries needed with syntaxes:
       - Seaborn: pip install seaborn <br />
       - Pandas: pip install pandas <br />
       - Numpy: pip install numpy <br />
